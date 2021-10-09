@@ -1,7 +1,5 @@
 ### Hi there 👋, Muhammad Lutfi
 #### Junior Front-End Web Developer and UI UX Designer
-![Junior Front-End Web Developer and UI UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I’m Muhammad Lutfi from Indonesia, and I'm a Junior FrontEnd Web Developer and UI UX Desinger. I'm currently learning Bootstrap and Tailwind CSS for website frontend, PHP and Codeigniter for website backend and wordpress CMS (Content Management System)
 
 Skills: Bootstrap / TAILWIND CSS / CODEIGNITER / HTML / CSS
