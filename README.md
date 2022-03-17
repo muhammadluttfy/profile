@@ -1,9 +1,10 @@
 # Muhammad Lutfi Edi Kurniawan
-I’m Muhammad Lutfi from Indonesia, and I'm a Junior FrontEnd Web Developer and UI UX Desinger. I'm currently learning Bootstrap and Tailwind CSS for website frontend, PHP and Codeigniter for website backend and wordpress CMS (Content Management System)
+I’m Muhammad Lutfi from Indonesia, and I'm a Junior Web Developer and UI UX Desinger. I'm currently learning Bootstrap and Tailwind CSS for website frontend, PHP and Laravel for website backend and wordpress CMS (Content Management System)
 
 ## Skills and Experience
 - 🧑🏻‍💻 HTML, CSS
 - 🧑🏻‍💻 Bootstrap, Tailwind CSS
+- 🧑🏻‍💻 Laravel
 - 🧑🏻‍💻 CMS Wordpress
 - 🧑🏻‍💻 UI UX Design
 
