@@ -4,6 +4,7 @@ I’m Muhammad Lutfi from Indonesia, and I'm a Junior Web Developer and UI UX De
 ## Skills and Experience
 - 🧑🏻‍💻 HTML, CSS
 - 🧑🏻‍💻 Bootstrap, Tailwind CSS
+- 🧑🏻‍💻 Vue JS, Quasar
 - 🧑🏻‍💻 Laravel
 - 🧑🏻‍💻 CMS Wordpress
 - 🧑🏻‍💻 UI UX Design
